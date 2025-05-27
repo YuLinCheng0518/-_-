@@ -70,4 +70,4 @@ GOOGLE_SHEET_HEADERS = [q["id"] for q in QUESTIONNAIRE_STRUCTURE]
 
 # Google Sheet 配置
 GOOGLE_SHEET_ID = "1dloIdYeMpwW7Mqg6LF63MYMbNrl7YSJxFwcYQYB9ryo" # 請替換為你的 Google Sheet ID
-SERVICE_ACCOUNT_FILE = "/Users/twinb00551596/Documents/Yulin/Cathay_Intern/頑碼數位/service_account.json" # 你的服務帳戶金鑰檔案路徑
+SERVICE_ACCOUNT_FILE = "your_path_to_service_account.json" # 你的服務帳戶金鑰檔案路徑
